@@ -1,6 +1,6 @@
 {
-  "short_name": "QR Scanner",
-  "name": "QR Code Scanner",
+  "short_name": "Botsquad QR",
+  "name": "Botsquad QR",
   "description": "QR code scanner progressive web application",
   "display": "standalone",
   "orientation": "portrait",
@@ -15,7 +15,7 @@
     "sizes": "512x512",
     "type": "image/png"
   }],
-  "start_url": "/index.html?utm_source=homescreen",
+  "start_url": "/",
   "theme_color": "#e4e4e4",
   "background_color": "#fff"
 }
