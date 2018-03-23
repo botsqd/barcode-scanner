@@ -1,0 +1,21 @@
+{
+  "short_name": "Botsquad QR",
+  "name": "Botsquad QR",
+  "description": "QR code scanner progressive web application",
+  "display": "standalone",
+  "orientation": "portrait",
+  "icons": [
+	{
+		"src": "/images/touch/android-chrome-192x192.png",
+		"sizes": "192x192",
+		"type": "image/png"
+	},
+  {
+    "src": "/images/touch/android-chrome-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }],
+  "start_url": "/",
+  "theme_color": "#e4e4e4",
+  "background_color": "#fff"
+}
